@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Fabioalvespinto.
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning SQL, Power BI, Machine Learning.
-- 📫 How to reach me fabio_alves99@outlook.com
+- 👋 Olá! Eu sou o Fabio Alves Pinto.
+- 👀 Tenho muito interesse em Data Science.
+- 🌱 No momento estou estudando SQL, Power BI, Machine Learning, R, estatística e Python.
+- 📫 Entre em contato comigo através do e-mail: fabio_alves99@outlook.com
 
 <div align="center">
   <a href="https://github.com/fabioalvespinto">
